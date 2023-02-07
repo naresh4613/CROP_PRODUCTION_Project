@@ -8,3 +8,5 @@ the side of the Future Internet. This paper presents a novel Business-to-Busines
 collaboration platform from the agri-food sector perspective, which aims to facilitate the
 collaboration of numerous stakeholders belonging to associated business domains, in an
 effective and flexible manner.
+
+Crop Production Dashboard link :- https://www.novypro.com/project/12345-1

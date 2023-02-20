@@ -12,3 +12,5 @@ effective and flexible manner.
 Crop Production Dashboard link :- https://www.novypro.com/project/12345-1
 
 Youtube vedio  link part1(python EDA) :- https://youtu.be/h66j8AEf2Ek
+
+Youtube vedio part 2 (dashboard);- https://youtu.be/HqYjMfd02A8
